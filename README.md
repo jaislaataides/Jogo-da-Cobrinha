@@ -26,12 +26,11 @@ Esse código é uma modificação da disponibilização encontrada em <a href="h
 
 <h2 name="goto">Para acessar</h2>
 
-Para acessar o jogo é simples, apenas clique no <a href = "">link</a>.
+Para acessar o jogo é simples, apenas clique no <a href = "https://jogo-da-cobrinha-nu.vercel.app">link</a>.
 
 <h2 name="todo">TO DO List</h2>
 
-<ul>
-    <li><input type="checkbox">  Adicionar tela de "Game Over"</li>
-    <li><input type="checkbox">  Implementar colisão entre a cobra e seu próprio corpo</li>
-    <li><input type="checkbox">  Adicionar tela de congratulação por finalizar o jogo</li>
-</ul>
+
+- [ ]  Adicionar tela de "Game Over"
+- [ ]  Implementar colisão entre a cobra e seu próprio corpo
+- [ ]  Adicionar tela de congratulação por finalizar o jogo
